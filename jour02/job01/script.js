@@ -1,4 +1,4 @@
-let bouton = document.getElementById("button");
+const bouton = document.getElementById("button");
 
 function citation(){
     let article = document.getElementById("citation");
