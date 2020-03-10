@@ -1,0 +1,18 @@
+body {
+    min-height: 4096px;
+}
+
+
+#boxbar{
+    width: 100%;
+    border: solid 5px #BADA55;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+#bar{
+    height: 20px;
+    background-color: crimson;
+    width: 0%;
+}
